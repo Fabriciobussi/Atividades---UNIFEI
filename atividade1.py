@@ -6,3 +6,4 @@ arquivo.write("Ana Paula: 7\n")
 arquivo.close()
 
 print("Arquivo criado!")
+print('hello word')
